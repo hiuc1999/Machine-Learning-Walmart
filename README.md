@@ -20,4 +20,5 @@ The dataset is obtained from Kaggle.
 1. ARIMA
 2. FB PROPHET
 3. LSTM
-4. Regression
+4. Multiple Linear Regression
+5. Random Forest Regression
