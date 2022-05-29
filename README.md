@@ -10,7 +10,7 @@ Mainly to analyze the Walmart sales data and predict their stores’ sales. Also
 The dataset is obtained from Kaggle.
 
 
-#### Methodoly
+#### Methodology
 1. Data Preprocessing via EDA & data cleaning. <br /> 
 2. Build models to predict the sales. <br /> 
 3. Evaluate the models & compare their respective RMSE. <br /> 
